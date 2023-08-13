@@ -1,5 +1,5 @@
 # Antenna-Theory
-Simulating of Horn antenna in C-bond
+Simulating Horn Antenna in C-bond
 
 Results             |  Results
 :-------------------------:|:-------------------------:
